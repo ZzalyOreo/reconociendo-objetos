@@ -1,0 +1,14 @@
+body {
+    color: white;
+    background: pink;
+}
+
+.heading {
+    width: 80%;
+    font-size: 22px;
+}
+.objetos,
+#objetoDetectado,
+#precisionDetectada {
+    color: yellow;
+}
