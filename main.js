@@ -16,7 +16,7 @@ function capturarImagen() {
 
 console.log('ml5 version:', ml5.version);
 
-reconocerObjeto = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/aBXGaytBp/model.json', modeloListo);
+reconocerObjeto = ml5.imageClassifier('https://teachablemachine.withgoogle.com/models/GqdNkXZLc/model.json', modeloListo);
 
 function modeloListo() {
     console.log("Modelo listo");
